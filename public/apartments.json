@@ -1,0 +1,38 @@
+{
+    "apartments":[
+        {
+            "id":1,
+            "name":"Cheyenne Pointe Apartment Homes",
+            "bedrooms":{"minBed":1, "maxBed":4},
+            "bathrooms":{"minBath":1, "maxBath":2},
+            "priceInfo":{"minPrice":805, "maxPrice":1225},
+            "sqft":{"minSqft":708, "maxSqft":1210},
+            "address":{"street":"3240 North Las Vegas Blvd", "city":"Las Vegas", "state":"Nevada", "zip":"89115"},
+            "pic":"images/pic5.jpg"
+        },
+
+        {
+            "id":2,
+            "name":"Destinations Pebble",
+            "bedrooms":{"minBed":0, "maxBed":2},
+            "bathrooms":{"minBath":1, "maxBath":2},
+            "priceInfo":{"minPrice":773, "maxPrice":1474},
+            "sqft":{"minSqft":455, "maxSqft":880},
+            "address":{"street":"1450 E Pebble Rd", "city":"Las Vegas", "state":"Nevada", "zip":"89123"},
+            "pic":"images/pic6.jpg"
+        },
+
+        {
+            "id":3,
+            "name":"Willow Springs",
+            "bedrooms":{"minBed":1, "maxBed":2},
+            "bathrooms":{"minBath":1, "maxBath":2},
+            "priceInfo":{"minPrice":1625, "maxPrice":2399},
+            "sqft":{"minSqft":740, "maxSqft":1390},
+            "address":{"street":"250 McAdoo Dr.", "city":"Folsom", "state":"California", "zip":"95630"},
+            "pic":"images/pic7.jpg"
+        }
+
+
+    ]
+}
