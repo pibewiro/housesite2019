@@ -1,0 +1,84 @@
+{
+    "houses":[
+        {
+            "id":1,
+            "accomodation":{"beds":3, "bath":1.5, "garage":2},
+            "sqft":1015,
+            "priceInfo":{"price":249999, "downPayment":116300, "year15":975, "year30":666, "lastSold":"230000 in 2004"},
+            "address":{"street":"7609 18th St", "city":"Sacramento", "state":"California", "zip":95832},
+            "yearBuilt":1960,
+            "pic":"images/pic1"
+        },
+
+        {
+            "id":2,
+            "accomodation":{"beds":3, "bath":1.5, "garage":2},
+            "sqft":1505,
+            "priceInfo":{"price":250000, "downPayment":116300, "year15":986, "year30":666, "lastSold":"230000 in 2004"},
+            "address":{"street":"7506 Sun Willow Way", "city":"Sacramento", "state":"California", "zip":95823},
+            "yearBuilt":1960,
+            "pic":"images/pic2"
+        },
+
+        {
+            "id":3,
+            "accomodation":{"beds":4, "bath":2, "garage":2},
+            "sqft":1577,
+            "priceInfo":{"price":358000, "downPayment":166542, "year15":1412, "year30":954, "lastSold":"315000 in 2017"},
+            "address":{"street":"7877 Kelvedon Way", "city":"Sacramento", "state":"California", "zip":95829},
+            "yearBuilt":2002,
+            "pic":"images/pic3"
+        },
+
+        {
+            "id":4,
+            "accomodation":{"beds":4, "bath":2.5, "garage":2},
+            "sqft":1800,
+            "priceInfo":{"price":899850, "downPayment":418657, "year15":3549, "year30":2394, "lastSold":"315000 in 2016"},
+            "address":{"street":"Hoquiam Ave NE", "city":"Renton", "state":"Washington", "zip":98059},
+            "yearBuilt":2002,
+            "pic":"images/pic8"
+        },
+
+        {
+            "id":5,
+            "accomodation":{"beds":4, "bath":2.5, "garage":3},
+            "sqft":1833,
+            "priceInfo":{"price":317900, "downPayment":147887, "year15":1203, "year30":863, "lastSold":"136500 in 1995"},
+            "address":{"street":"3212 Crescendo St", "city":"Las Vegas", "state":"Nevada", "zip":89129},
+            "yearBuilt":1996,
+            "pic":"images/pic9"
+        },
+
+        {
+            "id":6,
+            "accomodation":{"beds":3, "bath":3.5, "garage":2},
+            "sqft":1770,
+            "priceInfo":{"price":304900, "downPayment":141839, "year15":1203, "year30":828, "lastSold":"219950 in 2015"},
+            "address":{"street":"10322 Northern Hills Ave", "city":"Las Vegas", "state":"Nevada", "zip":89166},
+            "yearBuilt":2015,
+            "pic":"images/pic15"
+        },
+
+        {
+            "id":7,
+            "accomodation":{"beds":3, "bath":2.5, "garage":2},
+            "sqft":1786,
+            "priceInfo":{"price":509950, "downPayment":237229, "year15":2011, "year30":1358, "lastSold":""},
+            "address":{"street":"101 196th PI SW", "city":"Bothell", "state":"Washington", "zip":98012},
+            "yearBuilt":2008,
+            "pic":"images/pic21"
+        },
+
+        {
+            "id":8,
+            "accomodation":{"beds":3, "bath":2.5, "garage":2},
+            "sqft":1887,
+            "priceInfo":{"price":304900, "downPayment":141839, "year15":1203, "year30":828, "lastSold":""},
+            "address":{"street":"10747 Merrimack Ave", "city":"Las Vegas", "state":"Nevada", "zip":89166},
+            "yearBuilt":2008,
+            "pic":"images/pic25"
+        }
+
+    ]
+}
